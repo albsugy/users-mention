@@ -3,7 +3,7 @@ Next.js + TypeScript User mention
 
 ### Live demo
 
-  https://geo-location-app-iqaswpygfr.now.sh
+  https://user-mention.vercel.app/
 
 ## Getting Started
 Task | Description
